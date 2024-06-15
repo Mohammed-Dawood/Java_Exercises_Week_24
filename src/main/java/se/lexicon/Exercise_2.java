@@ -10,7 +10,7 @@ public class Exercise_2 {
         LocalDate currentDate = LocalDate.now();
 
         // Create a DateTimeFormatter with the desired pattern
-        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("EEEE dd MMMM", new Locale("en", "USA"));
+        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("EEEE dd MMMM", new Locale("en", "US"));
 
         // Format the current date using the formatter
         String formattedDate = currentDate.format(formatter);

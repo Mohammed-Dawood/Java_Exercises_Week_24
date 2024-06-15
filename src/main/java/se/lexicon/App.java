@@ -10,6 +10,9 @@ public class App {
         // Exercise_2.exercise_2();
 
         // To call Exercise_3
-        Exercise_3.exercise_3();
+        // Exercise_3.exercise_3();
+
+        // To call Exercise_
+        Exercise_4.exercise_4();
     }
 }
