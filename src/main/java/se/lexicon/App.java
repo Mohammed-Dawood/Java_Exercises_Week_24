@@ -22,6 +22,9 @@ public class App {
         // Exercise_6.exercise_6();
 
         // To call Exercise_7
-        Exercise_7.exercise_7();
+        // Exercise_7.exercise_7();
+
+        // To call Exercise_8
+        Exercise_8.exercise_8();
     }
 }
