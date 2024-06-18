@@ -12,7 +12,6 @@ public class Exercise_8 {
         // Create a LocalDate of the current date
         LocalDate currentDate = LocalDate.now();
 
-
         // Add the period to the current date
         LocalDate newDate = currentDate.plus(period);
 
