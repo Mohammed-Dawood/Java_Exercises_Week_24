@@ -40,10 +40,10 @@ public class App {
         // Exercise_12.exercise_12();
 
         // To call Exercise_13
-        Exercise_13.exercise_13();
+        // Exercise_13.exercise_13();
 
-        // To call Exercise_8
-        // Exercise_8.exercise_8();
+        // To call Exercise_14
+        Exercise_14.exercise_14();
 
         // To call Exercise_8
         // Exercise_8.exercise_8();
