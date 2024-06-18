@@ -49,6 +49,9 @@ public class App {
         // Exercise_15.exercise_15();
 
         // To call Exercise_16
-        Exercise_16.exercise_16();
+        // Exercise_16.exercise_16();
+
+        // To call Calender2018
+        Calendar2018.calendar2018();
     }
 }
