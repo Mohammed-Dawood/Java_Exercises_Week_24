@@ -1,9 +1,10 @@
 package se.lexicon;
 
-import java.time.LocalDate;
 import java.time.Month;
+import java.time.LocalDate;
 
 public class Exercise_6 {
+
     public static void exercise_6() {
         // Create a LocalDate object of the current date
         LocalDate currentDate = LocalDate.now();
